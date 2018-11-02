@@ -1,6 +1,4 @@
-# Powerful Plugins
-
-This repository is a collection of powerful open source plugins for different frameworks and tools. The available plugins are categorised as:
+# Hacker Plugins
 
 - [BurpSuite](Burp.md)
 - [Firefox](Firefox.md)
@@ -9,4 +7,3 @@ This repository is a collection of powerful open source plugins for different fr
 - [OllyDbg](OllyDbg.md)
 - [Volatility-Framework](Volatility-Framework.md)
 
-Contributions are always welcome !
